@@ -7,6 +7,11 @@
 
 .col-md-2{
     text-decoration: none; 
+
+}
+
+.col-md-2:hover{
+    color: #ff8000; 
 }
 
 .project{
