@@ -4,12 +4,16 @@ import '../App.css'
 
 
 
+
 export default class About extends Component {
     render() {
         return (
             <div className='container'>
                 <div className='row mt-5'>
                     <h3>About Me</h3>
+
+                    <img className="float-left mr-4" src="./images/About me Pic.jpg" width="150" height="150" />
+
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan, erat maximus suscipit congue,
                         diam orci rutrum nisl, vel posuere odio velit semper nibh. Cras vestibulum vestibulum turpis, at consequat
