@@ -38,3 +38,22 @@
 .resume:hover{
     color: #ff8000;
 }
+
+.github{
+    margin-left: 1rem;
+ 
+}
+
+.github:hover{
+    color: #ff8000;
+
+}
+
+.link{
+    margin-left: 1rem;
+}
+
+.link:hover{
+    color: #ff8000;
+}
+

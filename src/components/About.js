@@ -16,34 +16,25 @@ export default class About extends Component {
                         <img className="float-left mr-4 mb-4 mt-4 ml-4" src={logo} width="150" height="150" />
 
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan, erat maximus suscipit congue,
-                            diam orci rutrum nisl, vel posuere odio velit semper nibh. Cras vestibulum vestibulum turpis, at consequat
-                            ligula rutrum eget. Praesent et pretium metus, vitae egestas mi. Vestibulum at nisl gravida, vehicula elit at,
-                            mattis sem. Pellentesque ante nisl, laoreet eget molestie vitae, varius quis nulla. Mauris sed ullamcorper massa.
-                            Vestibulum libero sem, elementum ut vehicula vel, placerat at elit.
+                            I'm Kobe Hill Nice to meet you. I am full-stack web developer based is Wellsville,KS. I aslo have my part 107 license which a is a Pilots license for drones. After I got my part 107 I started my own company called AIRSHOT.llc we specialize in real estate photography and videography.
                         </p>
 
                         <p>
-                            Suspendisse gravida neque elit. Quisque interdum mattis rhoncus. Nulla sit amet pulvinar odio. In dapibus sagittis
-                            rhoncus. Nunc imperdiet turpis turpis, id fringilla libero placerat eget. Suspendisse congue porta porta. Duis non
-                            eros eu mi efficitur posuere. Pellentesque gravida nunc et ante ornare volutpat. Suspendisse potenti. Phasellus
-                            at pretium ex, at luctus enim. Maecenas lobortis neque sit amet ante porta, nec porta nisl sagittis. Ut sollicitudin
-                            euismod nibh quis tristique. Cras vulputate nisl facilisis interdum placerat. Nam vehicula dui imperdiet,
-                            luctus est eget, maximus velit.
+                            With growing up in a family and having a mom that works in the tech industry. I grew up loving
+                            technology and working with computers. When I was young I started teaching my self how to build
+                            computers. But what really got interested in coding was the class I took in High School. That class
+                            had a major impact on my life because I found something that I was good at and enjoyed doing it. So
+                            that is why I went to the KU Coding BootCamp.
                         </p>
 
                         <p>
-                            Suspendisse gravida neque elit. Quisque interdum mattis rhoncus. Nulla sit amet pulvinar odio. In dapibus sagittis
-                            rhoncus. Nunc imperdiet turpis turpis, id fringilla libero placerat eget. Suspendisse congue porta porta. Duis non
-                            eros eu mi efficitur posuere. Pellentesque gravida nunc et ante ornare volutpat. Suspendisse potenti. Phasellus
-                            at pretium ex, at luctus enim. Maecenas lobortis neque sit amet ante porta, nec porta nisl sagittis. Ut sollicitudin
-                            euismod nibh quis tristique. Cras vulputate nisl facilisis interdum placerat. Nam vehicula dui imperdiet,
-                            luctus est eget, maximus velit.
+                            Some of the skills I have are: Html, CSS, jquery, Javascript, Node.js, React.js, PWA, MongoDB,
+                            MySql, BootStrap, Bulma, MERN.
                         </p>
 
                         <p>
                             Here is a link to my Resume. Feel free to click the button to look at the
-                            Resume. And feel free to download it aslo.
+                            Resume.
                             <a href="https://drive.google.com/file/d/1NmtxrdE4Siam3m6OopJF8_WKhuwEAq25/view?usp=sharing" className='resume'>My Resume</a>
                         </p>
                     </div>

@@ -42,9 +42,7 @@ export default class Projects extends Component {
                     <div className='col-md-4 well'>
                         <div className='project'>
                             <h3>Fitness Tracker</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan, erat maximus suscipit congue,
-                            diam orci rutrum nisl, vel posuere odio velit semper nibh. Cras vestibulum vestibulum turpis, at consequat
-                            ligula rutrum eget. Praesent et pretium metus, vitae egestas mi. </p>
+                            <p>This application allows a user to veiw,create and track daily workouts. You can log mulltiple exercises on the current day. You can aslo view stats about the workouts that you have completed. This app makes working out fun. </p>
                             <a href="https://gentle-spire-87547.herokuapp.com/" className="btn btn-primary">Fitness Tracker</a>
                         </div>
                     </div>
@@ -52,9 +50,7 @@ export default class Projects extends Component {
                     <div className='col-md-4 well'>
                         <div className='project'>
                             <h3>Note Taker</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan, erat maximus suscipit congue,
-                            diam orci rutrum nisl, vel posuere odio velit semper nibh. Cras vestibulum vestibulum turpis, at consequat
-                            ligula rutrum eget. Praesent et pretium metus, vitae egestas mi.</p>
+                            <p>This program will allow you to record your notes. And save them to a database.If you need help taking noters this is the program for you. You smiply click on the pencil icon in the top right of your screen and this will allow you to create a note. When are done making your note you can then click the save icon to save you note.</p>
                             <a href="https://boiling-gorge-62792.herokuapp.com/" className="btn btn-primary">Note Taker</a>
                         </div>
                     </div>
