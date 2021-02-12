@@ -2,7 +2,7 @@
     font-style: italic;
     position: sticky;
     top: 0;
-    margin-left: 1rem;
+    background-color:aqua;
 }
 
 .col-md-2{
@@ -17,4 +17,24 @@
 .project{
     margin: 1.5rem;
     flex-wrap: wrap;
+}
+
+.page-footer{
+    bottom: 0;
+    height: 5vh;
+    position: fixed;
+    padding-top: 15px;
+    padding-bottom: 2rem;
+    text-align: center;
+    width: 100vw;
+    background-color: aqua;
+}
+
+.resume{
+    text-decoration: none;
+
+}
+
+.resume:hover{
+    color: #ff8000;
 }
