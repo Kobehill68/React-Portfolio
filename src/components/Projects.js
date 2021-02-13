@@ -22,7 +22,7 @@ export default class Projects extends Component {
                         <div className='project'>
                             <h3>TPOOPS</h3>
                             <p>We all need toilet paper. But with covid-19 it seems that tp was allways
-                            out of supply. So we set out to make a app that allows a user to input where there is tp in stock. Then when you are out of Tp you will be able to see the stores that have tp in stock that way you dont drive out of you way.
+                            out of supply. So we set out to make a app that allows a user to input where there is tp in stock.
                             </p>
                             <a href="https://mkkp-project2.herokuapp.com/" className="btn btn-primary">TPOOPS</a>
                         </div>
@@ -32,8 +32,7 @@ export default class Projects extends Component {
                         <div className='project'>
                             <h3>Progressive Budget</h3>
                             <p>This is my first PWA application I have made. This app will a user to track there budget online and
-                            offline as well. The User will be able to add expenses and deposits to their budget with or without a connection.
-                            When entering transactions offline, it will populate when they go online again.
+                            offline as well.
                             </p>
                             <a href="https://pacific-atoll-34498.herokuapp.com/" className="btn btn-primary">Progressive Budget</a>
                         </div>
@@ -50,7 +49,7 @@ export default class Projects extends Component {
                     <div className='col-md-4 well'>
                         <div className='project'>
                             <h3>Note Taker</h3>
-                            <p>This program will allow you to record your notes. And save them to a database.If you need help taking noters this is the program for you. You smiply click on the pencil icon in the top right of your screen and this will allow you to create a note. When are done making your note you can then click the save icon to save you note.</p>
+                            <p>This program will allow you to record your notes. And save them to a database.If you need help taking noters this is the program for you. You smiply click on the pencil icon in the top right of your screen and this will allow you to create a note.</p>
                             <a href="https://boiling-gorge-62792.herokuapp.com/" className="btn btn-primary">Note Taker</a>
                         </div>
                     </div>

@@ -10,6 +10,7 @@ import {
 export default class Header extends Component {
     render() {
         return (
+
             <div className='page-header'>
                 <h1>Kobe Hill <small>Full Stack Developer</small></h1>
                 <Link to='/' className='col-md-2'>Home</Link>
