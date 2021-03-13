@@ -6,7 +6,7 @@ import '../App.css'
 export default class Projects extends Component {
     render() {
         return (
-            <div className='container mt-4'>
+            <div className='container mt-4 mb-5'>
                 <div className='row'>
                     <div className='col-md-4 well'>
                         <div className='project'>
@@ -14,7 +14,8 @@ export default class Projects extends Component {
                             <p>We all love to travel, it is a big part of are lives. But trying to plan a
                             trip is a hassel. So we set out to making travel planning easy. Our Web Application does just that, you can say our web site is a one stop shop.
                             </p>
-                            <a href="https://benjdg.github.io/Travel_App/" className="btn btn-primary">Travel Planner</a>
+                            <a href="https://benjdg.github.io/Travel_App/" className="btn btn-primary mr-1">Travel Planner</a>
+                            <a href="https://github.com/Kobehill68/Travel_App" className="btn btn-primary">GitHub Repo</a>
                         </div>
                     </div>
 
@@ -24,7 +25,8 @@ export default class Projects extends Component {
                             <p>We all need toilet paper. But with covid-19 it seems that tp was allways
                             out of supply. So we set out to make a app that allows a user to input where there is tp in stock.
                             </p>
-                            <a href="https://mkkp-project2.herokuapp.com/" className="btn btn-primary">TPOOPS</a>
+                            <a href="https://mkkp-project2.herokuapp.com/" className="btn btn-primary mr-1">TPOOPS</a>
+                            <a href="https://github.com/Kobehill68/P2-tpoops" className="btn btn-primary">GitHub Repo</a>
                         </div>
                     </div>
 
@@ -34,7 +36,8 @@ export default class Projects extends Component {
                             <p>This is my first PWA application I have made. This app will a user to track there budget online and
                             offline as well.
                             </p>
-                            <a href="https://pacific-atoll-34498.herokuapp.com/" className="btn btn-primary">Progressive Budget</a>
+                            <a href="https://pacific-atoll-34498.herokuapp.com/" className="btn btn-primary mr-1">Progressive Budget</a>
+                            <a href="https://github.com/Kobehill68/18-Progressive-Budget" className="btn btn-primary">GitHub Repo</a>
                         </div>
                     </div>
 
@@ -42,7 +45,8 @@ export default class Projects extends Component {
                         <div className='project'>
                             <h3>Fitness Tracker</h3>
                             <p>This application allows a user to veiw,create and track daily workouts. You can log mulltiple exercises on the current day. You can aslo view stats about the workouts that you have completed. This app makes working out fun. </p>
-                            <a href="https://gentle-spire-87547.herokuapp.com/" className="btn btn-primary">Fitness Tracker</a>
+                            <a href="https://gentle-spire-87547.herokuapp.com/" className="btn btn-primary mr-1">Fitness Tracker</a>
+                            <a href="https://github.com/Kobehill68/17-Fitness-Tracker" className="btn btn-primary">GitHub Repo</a>
                         </div>
                     </div>
 
@@ -50,7 +54,8 @@ export default class Projects extends Component {
                         <div className='project'>
                             <h3>Note Taker</h3>
                             <p>This program will allow you to record your notes. And save them to a database.If you need help taking noters this is the program for you. You smiply click on the pencil icon in the top right of your screen and this will allow you to create a note.</p>
-                            <a href="https://boiling-gorge-62792.herokuapp.com/" className="btn btn-primary">Note Taker</a>
+                            <a href="https://boiling-gorge-62792.herokuapp.com/" className="btn btn-primary mr-1">Note Taker</a>
+                            <a href="https://github.com/Kobehill68/11_Note_Taker" className="btn btn-primary">GitHub Repo</a>
                         </div>
                     </div>
 
